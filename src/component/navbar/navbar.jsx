@@ -1,31 +1,3 @@
-// import Logo from "../../asset/logo.svg";
-// import "./navbar.style.css";
-// import * as React from 'react';
-// import Button from '@mui/material/Button';
-// import Menu from '@mui/material/Menu';
-// import MenuItem from '@mui/material/MenuItem';
-
-// function Navbar() {
-//   return (
-//     <div className="navbarWrapper">
-//       <div className="navImage">
-//         <img src={Logo} alt="not found" />
-//       </div>
-//       <div className="navMenu">
-//         <div>Dashboard</div>
-//         <div>FAQs</div>
-//         <div>Support</div>
-//         <div className="userIcon">
-//           <i className="pi pi-user" style={{ color: "#4A4ED4" }}></i>
-//           <i className="pi pi-angle-down" style={{ color: "#4A4ED4" }}></i>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default Navbar;
-
 import Logo from "../../asset/logo.svg";
 import "./navbar.style.css";
 import React from "react";
