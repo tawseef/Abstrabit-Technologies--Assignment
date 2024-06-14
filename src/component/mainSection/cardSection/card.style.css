@@ -1,0 +1,81 @@
+.cardWrapper {
+  height: 202px;
+  width: 398px;
+  padding-top: 20px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border: solid white 4px;
+  box-shadow: 0px 5px #0000000d;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.cardTitle {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.cardLogoImg {
+  height: 48px;
+  width: 48px;
+}
+
+.cardPoints {
+  display: flex;
+}
+
+.cardPointTickLogo {
+  height: 16px;
+  width: 16px;
+  margin-right: 5px;
+}
+
+.pointOne {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  height: 35px;
+  width: 172px;
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  font-size: 16px;
+  font-family: Apercu Pro;
+}
+
+.pointTwo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-left: 10px;
+  height: 35px;
+  width: 185px;
+}
+
+.bookNowBtn {
+  width: 133px;
+  height: 42px;
+  font-size: 16px;
+  color: white;
+  font-family: Apercu Pro;
+  border-radius: 5px;
+  border: 0px;
+}
+
+.innerText {
+  color: gray;
+}
+
+.interestNum {
+  color: black;
+}

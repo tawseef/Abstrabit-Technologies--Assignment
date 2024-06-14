@@ -1,0 +1,55 @@
+.userName {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Apercu Pro;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mainSectionWrapper {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.chart {
+  margin-bottom: 20px;
+  display: flex;
+}
+.cardSection {
+  width: 810px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.cardAndBanner {
+  display: flex;
+}
+
+.BannerSection {
+  margin-left: 26px;
+}
+
+.horizontalChart {
+  background-color: white;
+  width: 817px;
+  margin-left: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 5px #0000000d;
+  display: flex;
+  justify-content: center;
+  align-self: flex-end;
+}
+
+.timeChart {
+  margin-top: 75px;
+}
+
+.timelineChartText {
+  position: absolute;
+  top: 170px;
+  left: 514px;
+  font-size: 16px;
+  font-family: Apercu Pro;
+  font-weight: bold;
+}

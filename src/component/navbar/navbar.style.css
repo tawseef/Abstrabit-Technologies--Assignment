@@ -1,0 +1,45 @@
+.navbarWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 85px;
+  padding-top: 18.44px;
+  padding-bottom: 18.44px;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+.navMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  margin-right: 60px;
+  font-family: apercu-pro;
+  font-size: 17px;
+}
+
+.navImage {
+  margin-left: 60px;
+}
+
+.userIcon {
+  display: flex;
+  align-items: center;
+  /* align-content: center; */
+  justify-content: center;
+  border: 1px solid #4a4ed4;
+  border-radius: 24px;
+  width: 70.88px;
+  height: 42px;
+}
+
+.menuIcon {
+  height: 18px;
+  width: 18px;
+  margin-right: 10px;
+}
+
+.color {
+  color: #3b39d9;
+}

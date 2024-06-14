@@ -1,0 +1,105 @@
+.bannerWrapper {
+  height: 233px;
+  width: 390px;
+  background: white;
+  border-radius: 5px;
+  margin-bottom: 1px;
+  box-shadow: 0px 5px #0000000d;
+}
+.bannnerTitle {
+  font-family: Apercu Pro;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+.calenderDiv {
+  margin-top: 10px;
+  margin-left: 25px;
+  width: 76px;
+  height: 86px;
+}
+
+.scheduled {
+  font-family: Apercu Pro;
+  font-size: 12px;
+  color: grey;
+}
+
+.date {
+  text-align: center;
+  margin-top: 5px;
+  background: #f3f3f4;
+  height: 66px;
+  font-family: Apercu Pro;
+  font-size: 40px;
+}
+
+.year {
+  padding-top: 2px;
+  background: #ce5151;
+  font-family: Apercu Pro;
+  font-size: 12px;
+}
+
+.contentDetail {
+  display: flex;
+}
+
+.compName {
+  margin-top: 10px;
+  margin-left: 23px;
+  font-family: Apercu Pro;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+table {
+  margin-left: 23px;
+  width: 100;
+  border-collapse: collapse;
+}
+
+th {
+  font-family: Apercu Pro;
+  text-align: left;
+  font-weight: normal;
+  font-size: 14px;
+  color: grey;
+  padding: 14px 20px 10px 0px;
+}
+
+td {
+  font-family: Apercu Pro;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  padding: 0px 20px 0px 0px;
+}
+
+.btn {
+  margin-left: 23px;
+  margin-top: 20px;
+}
+
+.completeBtn {
+  color: white;
+  background: #3b39d9;
+  border: 0px;
+}
+
+.rescheduleBtn {
+  background: white;
+  color: #3b39d9;
+  border: 1px solid #3b39d9;
+  margin-left: 10px;
+}
+
+.button {
+  font-family: Apercu Pro;
+  font-size: 16px;
+  height: 42px;
+  width: 170px;
+  border-radius: 5px;
+}

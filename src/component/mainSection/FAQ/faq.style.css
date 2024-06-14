@@ -1,0 +1,57 @@
+.faqWrapper{
+    width: 100%;
+}
+.faqCardFlex{
+    display: flex;
+    gap: 15px;
+}
+
+.anwerHeading{
+    width: 100%;
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Apercu Pro;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.ansTitle{
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+
+.faqCard{
+    background-color: white;
+    width: 256px;
+    height: 194px;
+    border-radius: 5px;
+    box-shadow: 0px 5px #0000000d;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.ques{
+    font-family: Apercu Pro;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+.ans{
+    font-family: Apercu Pro;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-left: 25px;
+    font-weight: normal;
+}
+
+.link{
+    margin-left: 25px;
+    margin-top: 20px;   
+}
